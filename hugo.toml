@@ -51,3 +51,7 @@ copyright = "&copy; Copyright 2025, Arthur Costa"
   [[params.social]]
     fa_icon = "fa-solid fa-envelope fa-1x"
     href = "mailto:arthurcosta0ac@gmail.com"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
